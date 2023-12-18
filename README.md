@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @theamazingyogita
-- 👀 I’m interested in  coading,photography,cooking ,designing ,travelling,music and everything that makes me wonder.
-- 🌱 I’m currently learning Flutter and Android App Development Technologies.
+- 🌱 I’m a Flutter Developer
+- 👀 I’m interested in  coading, photography, cooking ,designing ,travelling, music and everything that makes me wonder - # I am a rainbow 🌈 not limited to one thing
