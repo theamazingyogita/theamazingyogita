@@ -14,9 +14,7 @@ Here are the tools and technologies I work with:
 
 ### 📫 Let's Connect  
 Feel free to reach out or explore more about me:  
-- [LinkedIn](https://www.linkedin.com)  
-- [Twitter](https://www.twitter.com)  
-- [Portfolio](https://your-portfolio-link.com)  
+- [LinkedIn](https://www.linkedin.com/in/yogita-agarwal-artist1996) 
 
 ---  
 
