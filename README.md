@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @theamazingyogita  
 
-🌱 **Flutter Developer**  
-✨ **I am a rainbow 🌈, not limited to one thing.**  
+🌱 Flutter Developer**  
+✨ caricature artist
+photographer
 
 ---
 
