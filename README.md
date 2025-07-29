@@ -9,7 +9,7 @@ photographer
 ## 💻 Tech Stack  
 Here are the tools and technologies I work with:  
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,figma)  
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,figma,react, vite)  
 
 ---
 
