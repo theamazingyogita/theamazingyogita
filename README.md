@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @theamazingyogita  
+# 👋 Hi, I’m Yogita  
 
 🌱 Flutter Developer**  
 ✨ caricature artist
