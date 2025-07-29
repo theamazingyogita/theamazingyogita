@@ -20,5 +20,3 @@ Feel free to reach out or explore more about me:
 ---  
 
 💡 _"Building apps, exploring creativity, and turning ideas into reality!"_
-
-https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=0&weeks=30&theme=green
