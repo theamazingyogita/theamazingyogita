@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yogita  
 
-🌱 Flutter Developer**  
+🌱 Flutter Developer
 ✨ caricature artist
 photographer
 
