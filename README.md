@@ -1,5 +1,5 @@
 # Hey, I'm Yogita Agarwal  
-**Flutter Developer** | **Caricature Artist** | **Photographer**
+Flutter Developer** | **Caricature Artist** | **Photographer**
 
 
 ## 💻 Tech Stack  
@@ -7,17 +7,17 @@
 
 
 ## 📚 Currently Learning  
-- Node.js  
-- React (Advanced Concepts)
+ Node.js  
+ React (Advanced Concepts)
 
 
 ## 🔭 Exploring Next  
-- Generative AI  
-- Large Language Models (LLMs)  
-- Deep Dive into Flutter Engine
+ Generative AI  
+ Large Language Models (LLMs)  
+ Deep Dive into Flutter Engine
 
 
 ## 📫 Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/yogita-agarwal-artist1996)
 
-> *“Building apps, exploring creativity, and turning ideas into reality.”*
+> “Building apps, exploring creativity, and turning ideas into reality.”
