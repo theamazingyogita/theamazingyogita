@@ -19,5 +19,3 @@ Flutter Developer** | **Caricature Artist** | **Photographer**
 
 ## 📫 Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/yogita-agarwal-artist1996)
-
-> “Building apps, exploring creativity, and turning ideas into reality.”
