@@ -1,6 +1,5 @@
 # Hey, I'm Yogita Agarwal  
-Flutter Developer** | **Caricature Artist** | **Photographer**
-
+Flutter Developer |Hobby Caricature Artist | Hobby Photographer
 
 ## 💻 Tech Stack  
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,figma,vite,react)  
