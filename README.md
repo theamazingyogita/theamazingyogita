@@ -3,3 +3,5 @@ Hi i am Yogita. I am a Mobile Application with 3+ years of experience.My experti
 Currently Exploring - 
 - Backend Dev
 - Web Dev
+- Web3
+- AI
