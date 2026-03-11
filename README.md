@@ -1,3 +1,5 @@
-Hi i am Yogita. I am a Mobile Application with ~3 years of experience.My experties lies in Flutter Framework.
-Currently Exploring - 
-I’m exploring Web3 and AI—curious about how the future of technology can blend decentralization and intelligence to build truly connected systems.
+Mobile Application Developer with ~3 years of experience specializing in Flutter. Focused on building scalable, high-performance cross-platform mobile applications with clean architecture and strong UI implementation.
+
+Currently exploring the intersection of Artificial Intelligence and Web3 to understand how intelligent systems and decentralized technologies can power the next generation of connected applications.
+
+Interested in opportunities with Japan-based companies and roles in Japan. Currently preparing for the Japanese Language Proficiency Test (JLPT) while continuing to deepen skills in mobile development and emerging technologies.
