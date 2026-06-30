@@ -1,6 +1,6 @@
 # Hi, I'm Yogita
 
-I build apps with Flutter — mobile, web, and a bit of desktop too. I'm not going to call myself an expert; I'm a dedicated developer who just really likes reading, learning, and figuring out how things work under the hood.
+I build apps with Flutter — mobile, web, and a bit of desktop too. I'm not going to call myself an expert,as i yet have to go into engine layer knowledge but I'm a dedicated developer who just really likes reading, learning, and figuring out how things work under the hood.
 
 ## What I'm into right now
 
