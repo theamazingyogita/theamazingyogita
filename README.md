@@ -1,50 +1,25 @@
-<div align="center">
-
 # Hi, I'm Yogita
 
-### Flutter developer · building across mobile, web & desktop
+I build apps with Flutter — mobile, web, and a bit of desktop too. I'm not going to call myself an expert; I'm a dedicated developer who just really likes reading, learning, and figuring out how things work under the hood.
 
-`Dart` `Flutter` `FastAPI` `Firebase` `Supabase` — and lately, AI + Web3, for real understanding, not buzzwords.
+## What I'm into right now
 
-</div>
+I'm digging into AI and Web3, not because they're trendy, but because I want to actually understand where mobile development is heading. Also studying for the JLPT on the side, with an eye on working in Japan someday.
 
----
+## Skills
 
-### currently
+**Languages & Frameworks:** Dart, Flutter (Mobile / Web / Desktop), Python (FastAPI), Node.js, HTML, CSS
+**State Management:** BLoC, GetX
+**Backend & Storage:** Firebase, Supabase, Convex, SQLite, Hive, GetStorage, Hydrated BLoC
+**Platform & Native:** iOS Live Activity, Dynamic Island, Mapbox
+**Tools:** Android Studio, Flutter DevTools, Postman, Git, Sentry, CI/CD
+**Design:** Figma, Adobe XD, Canva
+**Architecture:** Clean Architecture, Feature-First
 
-```
-location   → India, eyes on Japan
-studying   → JLPT, system design & architecture
-exploring  → agentic AI, Web3
-believe in → clean architecture > clever hacks
-```
+## Outside of code
 
-### 🛠 what I build with
-
-**Mobile / Frontend**
-`Flutter` `Dart` `BLoC` `GetX` `Svelte (learning)`
-
-**Backend / Data**
-`FastAPI` `Node.js` `Firebase` `Supabase` `Convex` `SQLite`
-
-**Tools**
-`Figma` `Git` `Sentry` `CI/CD` `Postman`
-
-### a few things I've shipped
-
-- **iOS Live Activity & Dynamic Island** for real-time lock-screen updates
-- Music player module for a 50K+ MAU app, using `just_audio` + `audio_service`
-- Itinerary tools with semantic search & drag-and-drop reordering
-- A healthcare MVP, launched solo, end to end
-
-### off-screen
-
-Caricature art, technical writing, and slowly leveling up my Japanese — 頑張ります！
+Caricature art, technical writing, and slowly getting better at Japanese.
 
 ---
 
-<div align="center">
-
-**agarwalyogita1996@gmail.com** · [LinkedIn](https://linkedin.com/in/yogita-agarwal-artist1996) · [Portfolio](https://yogita-agarwal.vercel.app)
-
-</div>
+agarwalyogita1996@gmail.com · [LinkedIn](https://linkedin.com/in/yogita-agarwal-artist1996) · [Portfolio](https://yogitaagarwalportfolio.vercel.app/)
