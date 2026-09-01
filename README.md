@@ -1,8 +1,8 @@
 Hi, I'm Yogita
-I build apps with Flutter — mobile, web, and a bit of desktop too. I'm not going to call myself an expert, as I yet have to go into engine-layer knowledge, but I'm a dedicated developer who just really likes reading, learning, and figuring out how things work under the hood.
+I build Products with Flutter (Mobile/Web/Desktop) I'm not going to call myself an expert, as I yet have to go into engine-layer knowledge, but I'm a dedicated developer who just really likes reading, learning, and figuring out how things work under the hood and working on it day by day.
 
 What I'm into right now
-I'm digging into AI and Web3, not because they're trendy, but because I want to actually understand where mobile development is heading. Also studying for the JLPT on the side, with an eye on working in Japan someday.
+I'm digging into AI and Web3 and Also studying for the JLPT on the side, with an eye on working in Japan someday.
 
 Skills
 Languages & frameworks: Dart, Flutter (mobile / web / desktop), Python (FastAPI · intermediate), Node.js, HTML, CSS, React (intermediate), Svelte (learning)
