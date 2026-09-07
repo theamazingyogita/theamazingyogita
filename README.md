@@ -1,6 +1,6 @@
 Hi, I'm Yogita.I build products with Flutter across mobile, web, and desktop. I can ship a complete app solo, with proper architecture and a flow that holds up. I work alongside product and design rather than just taking handoffs, because I'd rather raise a problem in the flow early than build something on top of a broken one.
 
-I don't call myself an expert, and that's a deliberate line, not modesty. To me "expert" means engine-layer depth, and I'm not there yet. Plenty of developers claim the title anyway; I'd rather say what's true and keep closing the gap. I read, I dig into how things work underneath, and I get better at it every day.
+I don't call myself an expert, and that's a deliberate line, not modesty. To me "expert" means engine-layer depth, and I'm not there yet. Plenty of developers claim the title anyway, I'd rather say what's true and keep closing the gap. I read, I dig into how things work underneath, and I get better at it every day.
 
 Skills
 Languages & frameworks: Dart, Flutter (mobile / web / desktop),Python (FastAPI), Node.js, HTML, CSS, React (intermediate), Svelte (intermediate)
