@@ -1,11 +1,9 @@
-Hi, I'm Yogita
-I build Products with Flutter (Mobile/Web/Desktop) I'm not going to call myself an expert, as I yet have to go into engine-layer knowledge, but I'm a dedicated developer who just really likes reading, learning, and figuring out how things work under the hood and working on it day by day.
+Hi, I'm Yogita.I build products with Flutter across mobile, web, and desktop. I can ship a complete app solo, with proper architecture and a flow that holds up. I work alongside product and design rather than just taking handoffs, because I'd rather raise a problem in the flow early than build something on top of a broken one.
 
-What I'm into right now
-I'm digging into AI and Web3 and Also studying for the JLPT on the side, with an eye on working in Japan someday.
+I don't call myself an expert, and that's a deliberate line, not modesty. To me "expert" means engine-layer depth, and I'm not there yet. Plenty of developers claim the title anyway; I'd rather say what's true and keep closing the gap. I read, I dig into how things work underneath, and I get better at it every day.
 
 Skills
-Languages & frameworks: Dart, Flutter (mobile / web / desktop), Python (FastAPI · intermediate), Node.js, HTML, CSS, React (intermediate), Svelte (learning)
+Languages & frameworks: Dart, Flutter (mobile / web / desktop),Python (FastAPI), Node.js, HTML, CSS, React (intermediate), Svelte (intermediate)
 
 State management: BLoC, Cubit, GetX, Provider
 
@@ -22,6 +20,6 @@ Design: Figma, Adobe XD, Canva, Krita, wireframing, low-fidelity prototyping
 Architecture: Clean Architecture, feature-first structure
 
 Outside of code
-Caricature art, technical writing, and slowly getting better at Japanese.
+Anime,Caricature art/Sketching,Gardening,Photography,Experimeting with food,and slowly getting better at Japanese.
 
 agarwalyogita1996@gmail.com · [LinkedIn](https://linkedin.com/in/yogita-agarwal-artist1996) · [Portfolio](https://yogitaagarwalportfolio.vercel.app/)
