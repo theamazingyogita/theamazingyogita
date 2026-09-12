@@ -7,14 +7,21 @@ I work alongside product and design rather than just taking handoffs, because I'
 I'm working towards becoming an expert in Flutter, and that's a deliberate line, not modesty. To me, "expert" means understanding what is happening underneath instead of just knowing which button to press. I read, I dig into how things work, and I keep breaking things until I understand why they broke.
 
 ## Skills
+
 **Languages & frameworks:** Dart, Flutter (mobile / web / desktop), Python (FastAPI), Node.js, HTML, CSS, React (intermediate), Svelte (intermediate)
 
 **State management:** BLoC, Cubit, GetX, Provider
+
 **Backend & storage:** Supabase, Convex, FastAPI, Firebase (Crashlytics, Analytics), SQLite, Hive, Shared Preferences, GetStorage, Hydrated BLoC
+
 **Platform & native:** iOS Live Activity, Dynamic Island, Mapbox, Exotel, just_audio, audio_service
+
 **Tools:** Android Studio, Flutter DevTools, Postman, Swagger, Git, Bitbucket, Jira, Sentry, Fibery
+
 **Deploy:** CI/CD pipelines, Netlify, Vercel, Render,Play store, App Store, cHROME STPRE
+
 **Design:** Figma, Adobe XD, Canva, Krita, wireframing, low-fidelity prototyping
+
 **Architecture:** Clean Architecture, feature-first structure
 
 ## Outside of code
